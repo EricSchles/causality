@@ -7,7 +7,9 @@ There are lots of great causality frameworks out there:
 * causaldiscovery
 * causalens
 * do-why
-* -learn (some 'learn' library that uses pgms sort of, look at the jama paper)
+* bn-learn 
+
+Also please checkout [this](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/libraries.md) repo which has a bunch more!
 
 ## How To Install
 
