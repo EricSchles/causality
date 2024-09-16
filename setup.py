@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="causality",
+    name="causality-ml",
     version="0.0.1",
     description="Yet another causal inference library",
     long_description=README,
@@ -25,10 +25,10 @@ setup(
         "Programming Language :: Python :: 3.10",
     ],
     packages=[
-        "causality",
-        "causality.rct",
-        "causality.hypothesis_tests.categorical_tests",
-        "causality.hypothesis_tests.continuous_tests"
+        "causality_ml",
+        "causality_ml.rct",
+        "causality_ml.hypothesis_tests.categorical_tests",
+        "causality_ml.hypothesis_tests.continuous_tests"
     ],
     include_package_data=True,
     install_requires=[
