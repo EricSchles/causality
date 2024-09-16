@@ -13,7 +13,7 @@ Also please checkout [this](https://github.com/matteocourthoud/awesome-causal-in
 
 ## How To Install
 
-`python -m pip install causality`
+`python -m pip install causality-ml`
 
 ## Erreta
 
